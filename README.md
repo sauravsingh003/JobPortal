@@ -6,7 +6,7 @@ JobHook is a full-stack job portal application consisting of a *Spring Boot back
 
 ## 🔗 Live Demo
 
-Check out the live application here: [JobHook - Job Portal](https://jobportal-frontend-efl5.onrender.com/)
+Check out the live application here: [JobHook - Job Portal Application](https://jobportal-frontend-efl5.onrender.com/)
 
 ---
 
